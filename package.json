@@ -1,0 +1,12 @@
+{
+  "name": "picosec-security-experimental",
+  "version": "0.0.1",
+  "scripts": {},
+  "engines": {
+    "iojs": "1.8.x"
+  },
+  "dependencies": {
+    "buffertools": "^2.1.2",
+    "hexy": "^0.2.7"
+  }
+}
