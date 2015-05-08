@@ -8,6 +8,7 @@
   "dependencies": {
     "buffertools": "^2.1.2",
     "hexy": "^0.2.7",
-    "ecdh": "git://github.com/picosec/ecdh.git"
+    "ecdh": "git://github.com/picosec/ecdh.git",
+    "jsbn": "git://github.com/picosec/jsbn.git"
   }
 }
