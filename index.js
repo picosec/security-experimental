@@ -1,5 +1,5 @@
 "use strict";
 
-exports.keyexchange = require('./keyexchange');
-exports.tls = require('./tls');
-exports.token = require('./token');
+exports.keyexchange = require('./lib/keyexchange');
+exports.tls = require('./lib/tls');
+exports.token = require('./lib/token');
